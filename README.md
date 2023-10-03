@@ -1,7 +1,7 @@
 ### Hi, I'm Jannik 👋
 I'm obsessed with Deep Learning, Computer Vision, and the latest and greatest in ML/AI. 🧠🎓
 
-My journey has taken me from developing ML solutions for fuel cell research to interning at Amazon. Currently, I'm doing a deep dive into the state-of-the-art in self-supervised/contrastive learning. 👀
+My journey has taken me from developing ML solutions for fuel cell research to launching a global ML monitoring system at Amazon Pay. Currently, I'm doing a deep dive into the state-of-the-art in self-supervised/contrastive learning. 👀
 
 Always up for a chat about the latest in AI or potential collaborations! 🤙🏼
 

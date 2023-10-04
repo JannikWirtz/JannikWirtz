@@ -7,7 +7,7 @@ Always up for a chat about the latest in AI or potential collaborations! 🤙�
 
 📫 Reach me: jannik.wirtz@yahoo.de
 
-📊 My stats have been on a 5-year diet; it's called non-disclosure agreements. 🤐😅
+📊 A lot of my work over the past 5 years isn't reflected here due to NDAs. 🤐😅
 ![Jannik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannikwirtz&show_icons=true&theme=transparent)
 <!--
 **JannikWirtz/JannikWirtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

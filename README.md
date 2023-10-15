@@ -7,8 +7,8 @@ Always up for a chat about the latest in AI or potential collaborations! 🤙�
 
 📫 Reach me: jannik.wirtz@yahoo.de
 
-![](https://leetcard.jacoblin.cool/sinzed?ext=heatmap)
 <!--
+![](https://leetcard.jacoblin.cool/sinzed?ext=heatmap)
 
 📊 A lot of my work over the past 5 years isn't reflected here due to NDAs. 🤐😅
 ![Jannik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannikwirtz&show_icons=true&theme=transparent)

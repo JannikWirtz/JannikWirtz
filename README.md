@@ -1,5 +1,4 @@
-### Hi, I'm Jannik 👋
-I'm obsessed with Deep Learning, Computer Vision, and the latest and greatest in ML/AI. 🧠🎓
+Obsessed with Deep Learning, Computer Vision, and the latest and greatest in ML/AI. 🧠🎓
 No i am not convinced of LLM's. Please don't talk to me about Blockchain/NFTs, thanks.
 
 My journey has taken me from developing ML solutions for fuel cell research to launching a global ML monitoring system at Amazon Pay. Currently am the Computer Vision Lead for the agriculture Startup Caterra AG in Zurich.

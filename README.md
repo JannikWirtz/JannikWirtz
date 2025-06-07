@@ -3,7 +3,7 @@ No i am not convinced of LLM's. Please don't talk to me about Blockchain/NFTs, t
 
 My journey has taken me from developing ML solutions for fuel cell research to launching a global ML monitoring system at Amazon Pay. Currently am the Computer Vision Lead for the agriculture Startup Caterra AG in Zurich.
 
-📫 Reach me: jannik@ywirtz.ai
+📫 Reach me: jannik@wirtz.ai
 
 <!--
 ![](https://leetcard.jacoblin.cool/sinzed?ext=heatmap)

@@ -2,6 +2,7 @@ Obsessed with Deep Learning, Computer Vision, and the latest and greatest in ML/
 My journey has taken me from developing ML solutions for fuel cell research to launching a global merchant monitoring system at Amazon Pay. Currently leading the Computer Vision efforts at robotics laser-weeding startup Caterra AG in Zurich. 🌱
 
 📫 Reach me: jannik@wirtz.ai
+
 PS: Please don't talk to me about your Crypto/NFTs or any other get-rich-quick schemes for that matter, thanks.
 
 <!--

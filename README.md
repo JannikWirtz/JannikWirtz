@@ -1,5 +1,5 @@
 Obsessed with Deep Learning, Computer Vision, and the latest and greatest in ML/AI. 🧠🎓
-My journey has taken me from developing ML solutions for fuel cell research to launching a global merchant monitoring system at Amazon Pay. Lead the AI/ML Computer Vision efforts at robotics laser-weeding startup Caterra AG in Zurich. 🌱 Currently working on foundational VLM models for applications in the Insurance industry to enable better claims leakage detection. 
+My journey has taken me from developing ML solutions for fuel cell research to launching a global merchant monitoring system at Amazon Pay. Leading the AI/ML Computer Vision efforts at robotics laser-weeding ETH-spinoff startup Caterra AG in Zurich. 🌱 Currently working on foundational VLM models for applications in the Insurance industry to enable better claims leakage detection. 
 
 📫 Reach me: jannik@wirtz.ai
 <!--

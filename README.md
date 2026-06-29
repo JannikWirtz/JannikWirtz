@@ -1,11 +1,11 @@
 Obsessed with Deep Learning, Computer Vision, and the latest and greatest in ML/AI. 🧠🎓
-My journey has taken me from developing ML solutions for fuel cell research to launching a global merchant monitoring system at Amazon Pay. Currently leading the Computer Vision efforts at robotics laser-weeding startup Caterra AG in Zurich. 🌱
+My journey has taken me from developing ML solutions for fuel cell research to launching a global merchant monitoring system at Amazon Pay. Lead the AI/ML Computer Vision efforts at robotics laser-weeding startup Caterra AG in Zurich. 🌱 Currently working on foundational VLM models for applications in the Insurance industry to enable better claims leakage detection. 
 
 📫 Reach me: jannik@wirtz.ai
 <!--
 ![](https://leetcard.jacoblin.cool/sinzed?ext=heatmap)
 
-📊 A lot of my work over the past 5 years isn't reflected here due to NDAs. 🤐😅
+📊 A lot of my work over the past 5 years isn't reflected here due to NDAs.
 ![Jannik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jannikwirtz&show_icons=true&theme=transparent)
 **JannikWirtz/JannikWirtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

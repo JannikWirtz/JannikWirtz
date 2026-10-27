@@ -2,7 +2,7 @@ Obsessed with Deep Learning, Computer Vision, and the latest and greatest in ML/
 My journey has taken me from developing ML solutions for fuel cell research to launching a global merchant monitoring system at Amazon Pay. Previously lead the AI/ML Computer Vision efforts for autonomous robotics laser-weeding tech at ETH-spinoff Caterra AG in Zurich. 🌱 Currently working on foundational VLM models for applications in the Insurance industry to enable better claims leakage detection for the leading insurer in Switzerland. 🇨🇭
 
 
-Check out my SaaS project: A Research platform for long-short equities trading at [terminal.wirtz.ai](https://terminal.wirtz.ai)
+Check out my SaaS project: A Research platform for long-short equities trading. The [Long Short Terminal](https://LS-Terminal.com)
 
 
 📫 Reach me: jannik@wirtz.ai
